@@ -7,6 +7,11 @@ This a Chrome Extension to highlight the word "Phobia" on any website.
 ## How we built it
 I have used manifest.json to specify the metadata about my extension & JavaScript as the scripting language & CSS3 for adding the rainbow blinking effect on the word "Phobia".
 
+## Screenshots of the project
+<img src="https://github.com/Snehomoy100/MLH-INIT-2022-Challenge-Phobia-Word-Highlighter--Chorme-Extension-/blob/main/screenshots/screenshot-one.png"/>
+<p/>
+<img src="https://github.com/Snehomoy100/MLH-INIT-2022-Challenge-Phobia-Word-Highlighter--Chorme-Extension-/blob/main/screenshots/screenshot-two.png"/>
+
 ## Challenges we ran into
 The word itself was unable to replace with. That's why used a recursive approach to loop through all the element & their child elements & child of those child elements.
 
