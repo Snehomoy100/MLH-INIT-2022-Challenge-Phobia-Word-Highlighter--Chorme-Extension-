@@ -1,0 +1,44 @@
+/* body {
+    background-color: #008000 !important;
+} */
+
+
+
+.rainbow {
+    animation: rainbow 600ms;
+    animation-iteration-count: infinite;
+}
+
+
+
+@keyframes rainbow {
+    0% {
+        color: red;
+    }
+
+    15%{
+        color: yellow;
+    }
+
+    30%{
+        color: green;
+    }
+
+    45% {
+        color: orange;
+    }
+
+    60% {
+        color: aqua;
+    }
+
+    75% {
+        color: indigo;
+    }
+
+    90% {
+        color: blue;
+    }
+
+
+}
