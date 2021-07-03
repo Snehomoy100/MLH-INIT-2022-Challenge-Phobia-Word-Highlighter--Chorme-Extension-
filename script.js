@@ -7,9 +7,9 @@ function replaceText(element) {
     } else if (element.nodeType === Text.TEXT_NODE) 
         // if the element is a text node  
     {
-        if(element.textContent.match(/coronavirus/gi)) {
+        if(element.textContent.match(/phobia/gi)) {
             const newElement = document.createElement('span')
-            newElement.innerHTML = element.textContent.replace(/(coronavirus)/gi, 
+            newElement.innerHTML = element.textContent.replace(/(phobia)/gi, 
             '<span class="rainbow">$1</span>')
             element.replaceWith(newElement)
         }
