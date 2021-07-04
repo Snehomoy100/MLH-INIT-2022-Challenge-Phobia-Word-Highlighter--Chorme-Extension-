@@ -1,6 +1,6 @@
 ## MLH INIT (DEVPOST) Challenge Submission Link
 
-https://devpost.com/software/calculator-app-mp49i3?ref_content=user-portfolio&ref_feature=in_progress
+https://devpost.com/software/phobia-word-highlighter-chrome-extension?ref_content=user-portfolio&ref_feature=in_progress
 
 ## Inspiration
 
