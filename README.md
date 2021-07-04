@@ -1,3 +1,6 @@
+## DEVPOST Submission Link
+https://devpost.com/software/calculator-app-mp49i3?ref_content=user-portfolio&ref_feature=in_progress
+
 ## Inspiration
 Many people actually don't want to hear or read the word "Phobia". So, that's why this chrome extension can help to stay away from that word by highlighting that word on any website.
 
