@@ -1,4 +1,4 @@
-## DEVPOST Submission Link
+## MLH INIT (DEVPOST) Challenge Submission Link
 https://devpost.com/software/calculator-app-mp49i3?ref_content=user-portfolio&ref_feature=in_progress
 
 ## Inspiration
